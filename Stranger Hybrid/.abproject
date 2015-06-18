@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Stranger Hybrid",
+  "ProjectGuid": "91abc835-59f3-4769-9165-c296c9d27d16",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.StrangerHybrid",
+  "DisplayName": "Stranger Hybrid",
+  "Author": "",
+  "Description": "Stranger Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{98c949ab-8757-4359-ac15-892868365c64}",
+  "WP8ProductID": "{33e7bf21-ca6a-4051-b1da-de677b4f1843}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.StrangerHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
